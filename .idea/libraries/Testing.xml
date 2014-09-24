@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Testing">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/mockito/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/appengine-api-stubs-1.4.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/appengine-java-sdk-1.9.10/lib/testing/appengine-testing.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/hamcrest-1.3/hamcrest-all-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/junit-4.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/mockito/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/Artifacts/Libs/appengine-java-sdk-1.9.10/lib/testing/appengine-testing.jar!/com/google/appengine/repackaged/com/google/common/base/super" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Ragga:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ragga_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Ragga/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Ragga" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="AppEngine API" />
+          <element id="library" level="project" name="PukkaCore" />
+          <element id="library" level="project" name="servlet" />
+          <element id="library" level="project" name="Testing" />
+          <element id="library" level="project" name="commons" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
