@@ -2,82 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f38c69f-7fa9-42da-84e7-562d9edac222" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/HelloWorld.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Ragga_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/AppEngine_API.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/PukkaCore.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Testing.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/factories/BackOfficeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/AccordionExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExampleForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExampleForm2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExampleGroupList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExampleList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExamplePivotPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/ExampleStatisticsBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestChart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestChart2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestHello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestLightbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestPageTab1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/TestPivot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/backend/RaggaBO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/DataReference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/DataReferenceTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/Example1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/Example1Table.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/Example3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/Example3Table.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/ExamplePivotObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/ExamplePivotObjectTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/ExamplePivotSecondary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/ExamplePivotSecondaryTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/system/tables/UnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/DummyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTestApp/MockWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTestApp/URLReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/AccordionTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/ConditionTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/DBSessionTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/FieldTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/FormFieldTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/FormTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/LoadTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/MatrixTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/PageTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/PukkaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/backofficeTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/basicTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/chartTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/configTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/dataBoxTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/exceptionTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/generateTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/linkElementTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/listTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/menuTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/pivotTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/productAndBrandTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/renderTableTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/unitTest/tableTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/json_lib_0_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/APIException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/ContactServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/ExternalEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/Formatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/FriendServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/MemberServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/MessageServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/RaggaServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/api/TransactionServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/system/SignificantEventHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backOffice/system/SignificantEventList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/AdServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/DetailsServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/MessageServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/ProfileServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/session/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/session/SessionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/session/SessionToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ContactServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/FriendServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/LoginServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/MessageServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/MockWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TransactionServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/UserServletTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ads.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/createAd.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/customPages/test/apiTest.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editProfile1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editProfile2.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editProfile3.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/editProfile4.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/inbox.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/logo.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/mailbox-categories.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/mailboxActionMenu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/nav-main.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/profileActionMenu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/registrationForm_modal.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/user-options.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/include/validateSession.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/myGuestbook.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/myInfo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/myProfile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/mySettings.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/myInfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/ragga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/scripts/swedish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/search.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/thread.jsp" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\AccordionExample.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExampleForm.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExampleForm2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExampleGroupList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExampleList.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExamplePivotPage.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\ExampleStatisticsBox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestChart.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestChart2.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestHello.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestLightbox.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestPage.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestPageTab1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\TestPivot.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\DataReference.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\DataReferenceTable.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\Example1.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\Example1Table.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\Example3.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\Example3Table.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\ExamplePivotObject.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\ExamplePivotObjectTable.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\ExamplePivotSecondary.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\ExamplePivotSecondaryTable.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\tables\UnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTestApp\MockWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\AccordionTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\ConditionTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\DBSessionTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\FieldTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\FormFieldTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\FormTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\LoadTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\MatrixTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\PageTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\PukkaTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\backofficeTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\basicTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\chartTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\configTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\dataBoxTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\exceptionTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\generateTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\linkElementTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\listTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\menuTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\pivotTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\productAndBrandTest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\renderTableTests.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTest\tableTests.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\system\backend\RaggaBO.java" afterPath="$PROJECT_DIR$/src/backOffice/system/RaggaBO.java" />
+      <change type="MOVED" beforePath="C:\Users\Linus\Documents\GitHub\RaggaSystem\src\unitTestApp\URLReader.java" afterPath="$PROJECT_DIR$/src/test/URLReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Ragga_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Ragga_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Testing.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Testing.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/commons.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/factories/BackOfficeFactory.java" afterPath="$PROJECT_DIR$/src/factories/BackOfficeFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/DummyTest.java" afterPath="$PROJECT_DIR$/src/test/DummyTest.java" />
     </list>
     <ignored path="Ragga.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,6 +139,73 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/backOffice/system/SignificantEventList.java" line="182" class="backOffice.system.SignificantEventList" package="backOffice.system">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/backOffice/system/SignificantEventList.java" line="160" class="backOffice.system.SignificantEventList" package="backOffice.system">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/bo/adminCommon/pageTypes/listPage.inc" line="52" class="listPage.inc" package="C:\Users\Linus\Documents\GitHub\RaggaSystem\web\bo\adminCommon\pageTypes">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/web/bo/list.jsp" line="18" class="list.jsp" package="C:\Users\Linus\Documents\GitHub\RaggaSystem\web\bo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/session/SessionManager.java" line="138" class="session.SessionManager" package="session">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -135,64 +246,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExampleGroupList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/system/ExampleGroupList.java">
+      <file leaf-file-name="inbox.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/inbox.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="25" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/system/ExampleList.java">
+      <file leaf-file-name="myGuestbook.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/myGuestbook.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="13" selection-start="1627" selection-end="1627" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConditionTests.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unitTest/ConditionTests.java">
+      <file leaf-file-name="myInfo.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/myInfo.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="13" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MockWriter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unitTestApp/MockWriter.java">
+      <file leaf-file-name="myProfile.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/myProfile.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnitTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/system/tables/UnitTest.java">
+      <file leaf-file-name="mySettings.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/mySettings.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="53" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DummyTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/DummyTest.java">
+      <file leaf-file-name="profile.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/profile.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="8" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RaggaBO.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/system/backend/RaggaBO.java">
+      <file leaf-file-name="register.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="41" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.02915952">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/search.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/test.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/thread.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.21875">
               <folding />
             </state>
           </provider>
@@ -212,8 +350,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/DummyTest.java" />
-        <option value="$PROJECT_DIR$/src/system/backend/RaggaBO.java" />
+        <option value="$PROJECT_DIR$/web/include/validateSession.inc" />
+        <option value="$PROJECT_DIR$/web/ads.jsp" />
+        <option value="$PROJECT_DIR$/web/profile.jsp" />
+        <option value="$PROJECT_DIR$/web/createAd.jsp" />
+        <option value="$PROJECT_DIR$/web/editProfile1.jsp" />
+        <option value="$PROJECT_DIR$/web/editProfile2.jsp" />
+        <option value="$PROJECT_DIR$/web/editProfile3.jsp" />
+        <option value="$PROJECT_DIR$/web/editProfile4.jsp" />
+        <option value="$PROJECT_DIR$/web/gallery.jsp" />
+        <option value="$PROJECT_DIR$/web/inbox.jsp" />
+        <option value="$PROJECT_DIR$/web/myGuestbook.jsp" />
+        <option value="$PROJECT_DIR$/web/myInfo.jsp" />
+        <option value="$PROJECT_DIR$/web/myProfile.jsp" />
+        <option value="$PROJECT_DIR$/web/mySettings.jsp" />
+        <option value="$PROJECT_DIR$/web/search.jsp" />
+        <option value="$PROJECT_DIR$/web/thread.jsp" />
       </list>
     </option>
   </component>
@@ -269,27 +421,77 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -299,29 +501,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unitTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -335,11 +519,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -347,17 +531,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
+              <option name="myItemId" value="siteBackend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
+              <option name="myItemId" value="RaggaSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -365,26 +549,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
+              <option name="myItemId" value="session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ragga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -395,6 +597,20 @@
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RaggaSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ragga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -410,17 +626,39 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="Errors" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services" />
+      <recent name="backend.api" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Linus\Documents\GitHub\RaggaSystem\web\scripts" />
+      <recent name="C:\Users\Linus\Documents\GitHub\RaggaSystem\web" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="session" />
+      <recent name="test" />
+      <recent name="services" />
+      <recent name="backend.system" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Linus\Documents\GitHub\RaggaSystem\web\include" />
+    </key>
   </component>
   <component name="RunManager" selected="Google AppEngine Dev Server.RaggaBO">
-    <configuration default="false" name="DummyTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TransactionServletTest.UserPayment" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -431,9 +669,121 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.DummyTest" />
+      <option name="MAIN_CLASS_NAME" value="test.TransactionServletTest" />
+      <option name="METHOD_NAME" value="UserPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FriendServletTest.becomeFriends" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Ragga" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FriendServletTest" />
+      <option name="METHOD_NAME" value="becomeFriends" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MessageServletTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Ragga" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.MessageServletTest" />
+      <option name="METHOD_NAME" value="sendMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContactServletTest.poke" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Ragga" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ContactServletTest" />
+      <option name="METHOD_NAME" value="poke" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test in Ragga" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Ragga" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -538,8 +888,79 @@
         <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="false" name="RaggaBO" type="GoogleAppEngineDevServer" factoryName="Local" APPLICATION_SERVER_NAME="AppEngine Dev2">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin.jsp" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin" />
+      <server-settings>
+        <option name="artifact" value="Ragga:war exploded" />
+      </server-settings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Ragga:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="Ragga Site" type="GoogleAppEngineDevServer" factoryName="Local" APPLICATION_SERVER_NAME="AppEngine Dev2">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <server-settings>
         <option name="artifact" value="Ragga:war exploded" />
       </server-settings>
@@ -566,9 +987,14 @@
         </option>
       </method>
     </configuration>
-    <list size="2">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Google AppEngine Dev Server.RaggaBO" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DummyTest" />
+      <item index="1" class="java.lang.String" itemvalue="Google AppEngine Dev Server.Ragga Site" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TransactionServletTest.UserPayment" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FriendServletTest.becomeFriends" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MessageServletTest.sendMessage" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ContactServletTest.poke" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.test in Ragga" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -600,36 +1026,41 @@
       <created>1411588996697</created>
       <updated>1411588996697</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1411592000753</created>
+      <updated>1411592000753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.48504272" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.49839744" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.3386752" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.49573106" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.49573106" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.65758544" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946581" sideWeight="0.67108166" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.4957265" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15048026" sideWeight="0.67108166" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2174393" sideWeight="0.9932976" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -638,8 +1069,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -693,39 +1124,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/system/ExampleGroupList.java">
+    <entry file="file://$PROJECT_DIR$/web/createAd.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="25" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
+        <state line="7" column="0" selection-start="177" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/system/ExampleList.java">
+    <entry file="file://$PROJECT_DIR$/web/editProfile1.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="13" selection-start="1627" selection-end="1627" vertical-scroll-proportion="0.0" />
+        <state line="8" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unitTest/ConditionTests.java">
+    <entry file="file://$PROJECT_DIR$/web/editProfile2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" />
+        <state line="6" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="-3.9230769">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unitTestApp/MockWriter.java">
+    <entry file="file://$PROJECT_DIR$/web/editProfile3.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" />
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/system/tables/UnitTest.java">
+    <entry file="file://$PROJECT_DIR$/web/editProfile4.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="53" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" />
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/DummyTest.java">
+    <entry file="file://$PROJECT_DIR$/web/gallery.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" />
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/system/backend/RaggaBO.java">
+    <entry file="file://$PROJECT_DIR$/web/inbox.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="41" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.02915952" />
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myGuestbook.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myInfo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/myProfile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/mySettings.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/thread.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.21875">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

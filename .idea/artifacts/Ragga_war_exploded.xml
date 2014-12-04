@@ -13,6 +13,7 @@
           <element id="library" level="project" name="servlet" />
           <element id="library" level="project" name="Testing" />
           <element id="library" level="project" name="commons" />
+          <element id="library" level="project" name="json-lib-0.9" />
         </element>
       </element>
     </root>

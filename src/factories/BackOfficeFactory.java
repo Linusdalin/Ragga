@@ -1,7 +1,7 @@
 package factories;
 
 
-import system.backend.RaggaBO;
+import backOffice.system.RaggaBO;
 
 /**
  * Created with IntelliJ IDEA.
